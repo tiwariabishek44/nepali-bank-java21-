@@ -1,6 +1,6 @@
 # TaskForge Bank 👑🔥
 
-Nepal's most over-engineered Banking Console App — Project 2 of 20 (Java 21 Warm-up)
+Banking Console App — Project 2 of 20 (Java 21 Warm-up)
 
 ### Features
 - Customer registration & login
